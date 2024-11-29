@@ -76,7 +76,7 @@ Vous pouvez personnaliser l'apparence de la modal en modifiant les styles CSS as
 ## 🔗 Liens
 
 - **[Dépôt GitHub](https://github.com/Courleciel/wealthealth-components_Modal)**
-- **[Package NPM](https://www.npmjs.com/package/wealthealth-components_Modal)**
+- **[Package NPM](https://www.npmjs.com/package/@courleciel/modal)**
 
 ---
 
