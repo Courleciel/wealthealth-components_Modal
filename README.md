@@ -1,7 +1,7 @@
 
-# Composant Modal - WealthHealth
+# @courleciel/modal
 
-`wealthealth-components_Modal` est un composant React simple et stylisé pour afficher des popups modales dans vos applications web.
+`@courleciel/modal` est un composant React simple et stylisé pour afficher des popups modales dans vos applications web.
 
 ---
 
@@ -10,7 +10,7 @@
 Installez le composant via npm :
 
 ```bash
-npm install wealthealth-components_Modal
+npm install @courleciel/modal
 ```
 
 ---

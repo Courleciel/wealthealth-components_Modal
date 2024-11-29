@@ -1,6 +1,6 @@
 {
   "name": "@courleciel/modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable modal component for React.",
   "main": "src/Modal.jsx",
   "author": "Courleciel",
